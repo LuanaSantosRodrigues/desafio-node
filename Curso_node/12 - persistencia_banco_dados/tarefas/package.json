@@ -1,0 +1,11 @@
+{
+  "name": "tarefas",
+  "version": "1.0.0",
+  "description": "pequeno sistema para gerenciar tarefas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luana Rodrigues",
+  "license": "ISC"
+}

@@ -91,7 +91,7 @@ Tem alguma ideia ou encontrou um problema? Fique à vontade para abrir uma [issu
 
 ## Redes Sociais
 
-- [YouTube - Torne-se um Programador](https://www.youtube.com/@torneseumprogramador)
+
 
 ---
 
